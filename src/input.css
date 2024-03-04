@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+tr:hover {
+  background-color: #faf2fe;
+}
+
+tr {
+  border-radius: 24px !important;
+}
